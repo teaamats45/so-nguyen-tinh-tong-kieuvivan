@@ -1,9 +1,27 @@
 {
-  "name": "@daominhhiep/tea-xyz-quest",
-  "version": "1.0.0",
-  "description": "Quest for tea.xyz",
+  "name": "so-nguyen-tinh-tong-kieuvivan",
+  "version": "1.0.3",
+  "description": "kieuvivan",
   "main": "index.js",
-  "author": "@daominhhiep",
-  "repository": "https://github.com/daominhhiep/tea-xyz-quest.git",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaamats45/so-nguyen-tinh-tong-kieuvivan.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "kieuvivan",
+  "license": "ISC",
+  "dependencies": {
+    "@lananhxcnm130/lananh-async-storage": "0.0.1",
+    "tinhdv-face-api.js": "0.22.5",
+    "timsolonnhat-kieuvivan": "1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/teaamats45/so-nguyen-tinh-tong-kieuvivan/issues"
+  },
+  "homepage": "https://github.com/teaamats45/so-nguyen-tinh-tong-kieuvivan#readme"
 }
